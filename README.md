@@ -116,4 +116,4 @@ alex@ubuntu:~/c/printf$
 
 
 Colaborators:
-Nwoko Obinna --> (Obinnaho)[https://@github.com/Obinnaho]
+Nwoko Obinna --> [Obinnaho](https://@github.com/Obinnaho)
